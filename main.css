@@ -1,0 +1,23 @@
+#from {
+    z-index: 1;
+    opacity: 0.3;
+}
+
+#to {
+    border: 1px solid black;
+}
+
+.same {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 500px;
+    width: 500px;
+    padding: 0px;
+    font-size: 12pt;
+    font-family: courier;
+}
+
+.selection {
+    background-color: black;
+}
